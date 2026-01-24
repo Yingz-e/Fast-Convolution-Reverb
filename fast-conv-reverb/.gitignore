@@ -1,0 +1,13 @@
+# 编译输出
+*.o
+*.exe
+*.dll
+
+# 音频文件
+*.wav
+
+# VS Code配置
+.vscode/
+
+# 临时文件
+*.tmp
